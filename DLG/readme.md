@@ -18,7 +18,7 @@ numpy 1.17.2
 ```
 
 ## Test
-unittest framework is used to run tests.
+unittest framework is used to develope and run tests.
 
 **Tests location -** 
 Weather_Test > tests > test_weather.py
