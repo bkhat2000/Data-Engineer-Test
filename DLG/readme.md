@@ -1,4 +1,4 @@
-##Assumptions
+## Assumptions
 In the ScreenTemperature column value is -99 erroneous.
 I have replaced the value -99 with 0.
 I am making the assumption looking at the context of the 
@@ -37,8 +37,8 @@ Make sure you have 3.7 Python version.
 python --version
 ```
 
-##Code execution
+## Code execution
 
-This code can be run in the terminal or using an IDE using the main.py file
-via command line - **$ python main.py**
+This code can be run in the terminal or using an IDE using the main.py file.
+Via command line - **$ python main.py**
 
